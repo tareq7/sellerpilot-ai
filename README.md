@@ -1,6 +1,6 @@
 # SellerPilot AI — intelligence, in control.
 
-**An evidence-backed, bilingual marketplace-operations copilot for Amazon.sa and Noon.sa.**
+I built SellerPilot because ad results don't tell the whole story. A seller might be paying for clicks while a product is running out of stock. SellerPilot puts ad spending and inventory in one place so I can see what needs attention and decide what to do next. It works in English and Arabic. The public demo uses sample data and does not change live Amazon or Noon accounts.
 
 [**Launch the live hackathon demo**](https://sellerpilot-ai-phi.vercel.app) · [**Watch the exactly 3:00 cinematic demo**](https://sellerpilot-ai-phi.vercel.app/demo-video.mp4) · [Architecture](docs/ARCHITECTURE.md) · [3-minute demo outline](docs/DEMO_SCRIPT.md) · [Test & release evidence](docs/QA_REPORT.md)
 
